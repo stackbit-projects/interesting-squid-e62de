@@ -75,7 +75,7 @@ Create your resume in a few minutes with this totally responsive starter using R
 
 5. **Deploy to Github pages**
 
-    That command will deploy the production build to gh-pages branch of your repository
+    That command2 will deploy the production build to gh-pages branch of your repository
     > ⚠️ don't forget to check `pathPrefix` in the configuration file.
 
 
